@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PierreFeuilleCiseauV2">
+    <output-path>$PROJECT_DIR$/out/artifacts/PierreFeuilleCiseauV2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PierreFeuilleCiseauV2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="PierreFeuilleCiseauV2/web/Web" />
+    </root>
+  </artifact>
+</component>
